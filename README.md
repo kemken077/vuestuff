@@ -1,2 +1,2 @@
 # vuestuff
-Hope to serve as Vue cookbook some day.
+Hope to serve as a Vue cookbook some day.
